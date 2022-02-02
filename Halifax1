@@ -8,5 +8,5 @@ F5vCX60M2lgeBmVaZQO/jKdTIcxrVSwBJwIDAQAB
 -----END RSA PUBLIC KEY-----
 Ed25519PublicKey = giIxmW/UgU6N+DTz88/c1mgEzLHmYCUDCKfvdDDo07H
 Address = 104.37.192.186
-Subnet = 10.112.12.1/32
+Subnet = 10.112.12.253/32
 Subnet = 0.0.0.0/0
